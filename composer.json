@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": "^7.2",
+        "php": "^7.2|^8.0",
         "symfony/serializer": "^5.0",
         "paragonie/random_compat": "*",
         "elasticsearch/elasticsearch": "^6.0"
